@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-02-25T20:52:01Z",
+  "timestamp": "2014-02-25T23:08:02Z",
   "features": [
     {
       "type": "Feature",
@@ -927,6 +927,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/23155093",
+      "properties": {
+        "@id": "way/23155093",
+        "highway": "unclassified",
+        "loc_ref": "1443_25234",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1906724,
+            45.5086072
+          ],
+          [
+            9.1908946,
+            45.5085593
+          ],
+          [
+            9.1913133,
+            45.508457
+          ],
+          [
+            9.1914805,
+            45.5084178
+          ],
+          [
+            9.1918949,
+            45.5083207
+          ],
+          [
+            9.1920032,
+            45.5082959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/23157910",
       "properties": {
         "@id": "way/23157910",
@@ -1086,6 +1126,64 @@
           [
             9.2163539,
             45.4879121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23423191",
+      "properties": {
+        "@id": "way/23423191",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1537_4968",
+        "name": "Via Angelo De Gasperis",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1948266,
+            45.5076159
+          ],
+          [
+            9.1947976,
+            45.5075548
+          ],
+          [
+            9.1943962,
+            45.5067198
+          ],
+          [
+            9.1943618,
+            45.5066479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23423192",
+      "properties": {
+        "@id": "way/23423192",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1443_38485",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1951649,
+            45.5075365
+          ],
+          [
+            9.1951932,
+            45.5075945
           ]
         ]
       }
@@ -1267,6 +1365,103 @@
           [
             9.2224846,
             45.4756951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24189870",
+      "properties": {
+        "@id": "way/24189870",
+        "highway": "unclassified",
+        "loc_ref": "-1",
+        "name": "Via Calvairate",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2217962,
+            45.4561169
+          ],
+          [
+            9.221909,
+            45.456145
+          ],
+          [
+            9.2219884,
+            45.4561615
+          ],
+          [
+            9.2221425,
+            45.4561854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24264077",
+      "properties": {
+        "@id": "way/24264077",
+        "highway": "unclassified",
+        "loc_ref": "3220_32895",
+        "name": "Via Laura Ciceri Visconti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2203229,
+            45.4558546
+          ],
+          [
+            9.2203239,
+            45.4557582
+          ],
+          [
+            9.2203326,
+            45.4548996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24264078",
+      "properties": {
+        "@id": "way/24264078",
+        "highway": "unclassified",
+        "loc_ref": "3220_8274",
+        "name": "Via Laura Ciceri Visconti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2208838,
+            45.4536013
+          ],
+          [
+            9.2208829,
+            45.4536738
+          ],
+          [
+            9.2208812,
+            45.4538105
+          ],
+          [
+            9.2208721,
+            45.4545374
+          ],
+          [
+            9.2208683,
+            45.4548429
           ]
         ]
       }
@@ -1588,6 +1783,30 @@
           [
             9.2158579,
             45.5252016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27003599",
+      "properties": {
+        "@id": "way/27003599",
+        "highway": "unclassified",
+        "loc_ref": "3213_25379",
+        "name": "Via Marco Greppi",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2193295,
+            45.4569151
+          ],
+          [
+            9.2172072,
+            45.4568934
           ]
         ]
       }
@@ -2153,6 +2372,37 @@
     },
     {
       "type": "Feature",
+      "id": "way/29120735",
+      "properties": {
+        "@id": "way/29120735",
+        "highway": "unclassified",
+        "loc_ref": "3214_629",
+        "name": "Via Gaetano Strigelli"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2170298,
+            45.455843
+          ],
+          [
+            9.2171519,
+            45.4558595
+          ],
+          [
+            9.2191916,
+            45.4561359
+          ],
+          [
+            9.2193266,
+            45.4561542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/29200756",
       "properties": {
         "@id": "way/29200756",
@@ -2246,6 +2496,73 @@
           [
             9.0710601,
             45.5707618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30632761",
+      "properties": {
+        "@id": "way/30632761",
+        "highway": "residential",
+        "loc_ref": "1443_38498",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1920968,
+            45.5084903
+          ],
+          [
+            9.1921331,
+            45.5085677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30632762",
+      "properties": {
+        "@id": "way/30632762",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1526_4941",
+        "name": "Via Francesco Gatti"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1920032,
+            45.5082959
+          ],
+          [
+            9.1919753,
+            45.5082363
+          ],
+          [
+            9.19188,
+            45.5080324
+          ],
+          [
+            9.1917995,
+            45.5078601
+          ],
+          [
+            9.1915783,
+            45.5074133
+          ],
+          [
+            9.1915746,
+            45.5074055
+          ],
+          [
+            9.1915349,
+            45.5073243
           ]
         ]
       }
@@ -2389,6 +2706,84 @@
           [
             9.1664231,
             45.4842033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36873327",
+      "properties": {
+        "@id": "way/36873327",
+        "highway": "unclassified",
+        "lit": "yes",
+        "loc_ref": "3219_19497",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2192955,
+            45.4576023
+          ],
+          [
+            9.2193018,
+            45.457578
+          ],
+          [
+            9.2193145,
+            45.4575287
+          ],
+          [
+            9.219322,
+            45.4574315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37041960",
+      "properties": {
+        "@id": "way/37041960",
+        "highway": "unclassified",
+        "loc_ref": "3224_37716",
+        "name": "Via Luisa Sanfelice",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2218171,
+            45.4569574
+          ],
+          [
+            9.2218502,
+            45.4569379
+          ],
+          [
+            9.2218759,
+            45.4569284
+          ],
+          [
+            9.2219168,
+            45.4569132
+          ],
+          [
+            9.221951,
+            45.4569038
+          ],
+          [
+            9.222104,
+            45.4568616
+          ],
+          [
+            9.2234566,
+            45.4564888
           ]
         ]
       }
@@ -2704,6 +3099,104 @@
           [
             9.2155743,
             45.4864599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/85683988",
+      "properties": {
+        "@id": "way/85683988",
+        "highway": "unclassified",
+        "loc_ref": "-1",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2218313,
+            45.4562726
+          ],
+          [
+            9.2218229,
+            45.4568224
+          ],
+          [
+            9.2218171,
+            45.4569574
+          ],
+          [
+            9.2218064,
+            45.4574568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/85683989",
+      "properties": {
+        "@id": "way/85683989",
+        "highway": "unclassified",
+        "loc_ref": "-1",
+        "name": "Via Calvairate",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2221425,
+            45.4561854
+          ],
+          [
+            9.2219872,
+            45.4561968
+          ],
+          [
+            9.2218996,
+            45.4562144
+          ],
+          [
+            9.2218594,
+            45.4562343
+          ],
+          [
+            9.2218313,
+            45.4562726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/85683990",
+      "properties": {
+        "@id": "way/85683990",
+        "highway": "unclassified",
+        "loc_ref": "-1",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2217962,
+            45.4561169
+          ],
+          [
+            9.2218272,
+            45.4561985
+          ],
+          [
+            9.2218313,
+            45.4562726
           ]
         ]
       }
@@ -3072,6 +3565,62 @@
           [
             9.1278562,
             45.4595277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140681373",
+      "properties": {
+        "@id": "way/140681373",
+        "highway": "unclassified",
+        "loc_ref": "1443_35050",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1921331,
+            45.5085677
+          ],
+          [
+            9.1920268,
+            45.5085906
+          ],
+          [
+            9.1908541,
+            45.508867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/141331939",
+      "properties": {
+        "@id": "way/141331939",
+        "cycling_width": "mean",
+        "highway": "tertiary",
+        "loc_ref": "1443_25233",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1920719,
+            45.5084299
+          ],
+          [
+            9.1919708,
+            45.5084547
+          ],
+          [
+            9.1907792,
+            45.508739
           ]
         ]
       }
@@ -4237,6 +4786,71 @@
           [
             9.1346659,
             45.4565692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236825128",
+      "properties": {
+        "@id": "way/236825128",
+        "highway": "unclassified",
+        "loc_ref": "1443_25241",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1920032,
+            45.5082959
+          ],
+          [
+            9.1920967,
+            45.5082701
+          ],
+          [
+            9.194768,
+            45.5076297
+          ],
+          [
+            9.1948266,
+            45.5076159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239546828",
+      "properties": {
+        "@id": "way/239546828",
+        "highway": "unclassified",
+        "lit": "yes",
+        "loc_ref": "3212_19492",
+        "name": "Via Vertoiba",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2192955,
+            45.4576023
+          ],
+          [
+            9.2192942,
+            45.4576222
+          ],
+          [
+            9.2192894,
+            45.4576937
+          ],
+          [
+            9.2192822,
+            45.4578031
           ]
         ]
       }
@@ -9697,6 +10311,1196 @@
           [
             9.2169448,
             45.5244846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423785",
+      "properties": {
+        "@id": "way/263423785",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1537_4967",
+        "name": "Via Angelo De Gasperis",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1947008,
+            45.5065995
+          ],
+          [
+            9.1951342,
+            45.5074799
+          ],
+          [
+            9.1951649,
+            45.5075365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423786",
+      "properties": {
+        "@id": "way/263423786",
+        "highway": "residential",
+        "lanes": "2",
+        "loc_ref": "1097_503",
+        "name": "Via Cherasco",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1921331,
+            45.5085677
+          ],
+          [
+            9.1921752,
+            45.5086459
+          ],
+          [
+            9.1925646,
+            45.509461
+          ],
+          [
+            9.192609,
+            45.5095319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423789",
+      "properties": {
+        "@id": "way/263423789",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1527_4658",
+        "name": "Via Michele De Angelis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1937022,
+            45.5068052
+          ],
+          [
+            9.1928455,
+            45.5070102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423790",
+      "properties": {
+        "@id": "way/263423790",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1527_4965",
+        "name": "Via Michele De Angelis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1940847,
+            45.5067135
+          ],
+          [
+            9.1937022,
+            45.5068052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423791",
+      "properties": {
+        "@id": "way/263423791",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1527_4972",
+        "name": "Via Michele De Angelis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1928455,
+            45.5070102
+          ],
+          [
+            9.1916306,
+            45.5073004
+          ],
+          [
+            9.1915349,
+            45.5073243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423793",
+      "properties": {
+        "@id": "way/263423793",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1527_4966",
+        "name": "Via Michele De Angelis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1943618,
+            45.5066479
+          ],
+          [
+            9.1942732,
+            45.5066689
+          ],
+          [
+            9.1940847,
+            45.5067135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423794",
+      "properties": {
+        "@id": "way/263423794",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1527_36414",
+        "name": "Via Michele De Angelis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1915349,
+            45.5073243
+          ],
+          [
+            9.1914294,
+            45.5073509
+          ],
+          [
+            9.1910762,
+            45.507437
+          ],
+          [
+            9.1901997,
+            45.5076462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423798",
+      "properties": {
+        "@id": "way/263423798",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "lanes": "2",
+        "loc_ref": "1098_15922",
+        "name": "Via Val Maira",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1954391,
+            45.5088562
+          ],
+          [
+            9.1953504,
+            45.5088784
+          ],
+          [
+            9.1953307,
+            45.5088826
+          ],
+          [
+            9.1927682,
+            45.5094962
+          ],
+          [
+            9.1926926,
+            45.5095149
+          ],
+          [
+            9.192609,
+            45.5095319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423799",
+      "properties": {
+        "@id": "way/263423799",
+        "highway": "unclassified",
+        "loc_ref": "1168_41470",
+        "name": "Via Valfurva"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1953076,
+            45.5085938
+          ],
+          [
+            9.1956358,
+            45.5085103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423801",
+      "properties": {
+        "@id": "way/263423801",
+        "highway": "unclassified",
+        "loc_ref": "1168_41466",
+        "name": "Via Valfurva"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1951475,
+            45.5082486
+          ],
+          [
+            9.195469,
+            45.5081726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423802",
+      "properties": {
+        "@id": "way/263423802",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1168_41468",
+        "name": "Via Valfurva",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.195469,
+            45.5081726
+          ],
+          [
+            9.1956358,
+            45.5085103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423803",
+      "properties": {
+        "@id": "way/263423803",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1168_41464",
+        "name": "Via Valfurva",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1953076,
+            45.5085938
+          ],
+          [
+            9.1951475,
+            45.5082486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423804",
+      "properties": {
+        "@id": "way/263423804",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1168_41458",
+        "name": "Via Valfurva",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1952927,
+            45.5078104
+          ],
+          [
+            9.1953195,
+            45.507865
+          ],
+          [
+            9.195469,
+            45.5081726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423805",
+      "properties": {
+        "@id": "way/263423805",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1168_41456",
+        "name": "Via Valfurva",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1951475,
+            45.5082486
+          ],
+          [
+            9.1949957,
+            45.5079452
+          ],
+          [
+            9.1949704,
+            45.5078946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423806",
+      "properties": {
+        "@id": "way/263423806",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1168_41465",
+        "name": "Via Valfurva",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1954391,
+            45.5088562
+          ],
+          [
+            9.1954048,
+            45.508786
+          ],
+          [
+            9.1953076,
+            45.5085938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423808",
+      "properties": {
+        "@id": "way/263423808",
+        "highway": "unclassified",
+        "loc_ref": "1443_25244",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1952927,
+            45.5078104
+          ],
+          [
+            9.1949704,
+            45.5078946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423809",
+      "properties": {
+        "@id": "way/263423809",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1443_38491",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1948572,
+            45.507673
+          ],
+          [
+            9.1948266,
+            45.5076159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423810",
+      "properties": {
+        "@id": "way/263423810",
+        "cycling_width": "mean",
+        "highway": "tertiary",
+        "loc_ref": "1443_25243",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1952276,
+            45.5076721
+          ],
+          [
+            9.194897,
+            45.5077525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423811",
+      "properties": {
+        "@id": "way/263423811",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1443_38487",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1952276,
+            45.5076721
+          ],
+          [
+            9.1952551,
+            45.5077342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423812",
+      "properties": {
+        "@id": "way/263423812",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1443_38486",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1951932,
+            45.5075945
+          ],
+          [
+            9.1952276,
+            45.5076721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423813",
+      "properties": {
+        "@id": "way/263423813",
+        "highway": "residential",
+        "loc_ref": "1443_38497",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1920719,
+            45.5084299
+          ],
+          [
+            9.1920968,
+            45.5084903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423814",
+      "properties": {
+        "@id": "way/263423814",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1443_38489",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1949285,
+            45.5078109
+          ],
+          [
+            9.194897,
+            45.5077525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423815",
+      "properties": {
+        "@id": "way/263423815",
+        "highway": "residential",
+        "loc_ref": "1443_38499",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1920719,
+            45.5084299
+          ],
+          [
+            9.1920335,
+            45.5083558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423816",
+      "properties": {
+        "@id": "way/263423816",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1443_38492",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.194897,
+            45.5077525
+          ],
+          [
+            9.1948572,
+            45.507673
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423817",
+      "properties": {
+        "@id": "way/263423817",
+        "highway": "unclassified",
+        "loc_ref": "1443_25249",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1948266,
+            45.5076159
+          ],
+          [
+            9.1951649,
+            45.5075365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423818",
+      "properties": {
+        "@id": "way/263423818",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1443_38488",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1952551,
+            45.5077342
+          ],
+          [
+            9.1952927,
+            45.5078104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423819",
+      "properties": {
+        "@id": "way/263423819",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1443_38490",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1949704,
+            45.5078946
+          ],
+          [
+            9.1949285,
+            45.5078109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423820",
+      "properties": {
+        "@id": "way/263423820",
+        "highway": "residential",
+        "loc_ref": "1443_38500",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1920335,
+            45.5083558
+          ],
+          [
+            9.1920032,
+            45.5082959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423821",
+      "properties": {
+        "@id": "way/263423821",
+        "cycling_width": "mean",
+        "highway": "tertiary",
+        "loc_ref": "1443_25240",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.194897,
+            45.5077525
+          ],
+          [
+            9.1948088,
+            45.5077733
+          ],
+          [
+            9.1921706,
+            45.5084061
+          ],
+          [
+            9.1920719,
+            45.5084299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423822",
+      "properties": {
+        "@id": "way/263423822",
+        "highway": "unclassified",
+        "loc_ref": "1443_25239",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1949704,
+            45.5078946
+          ],
+          [
+            9.1948841,
+            45.5079172
+          ],
+          [
+            9.1922361,
+            45.5085416
+          ],
+          [
+            9.1921331,
+            45.5085677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429434",
+      "properties": {
+        "@id": "way/263429434",
+        "highway": "unclassified",
+        "lit": "yes",
+        "loc_ref": "3219_19490",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.219322,
+            45.4574315
+          ],
+          [
+            9.2193295,
+            45.4569151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429435",
+      "properties": {
+        "@id": "way/263429435",
+        "highway": "unclassified",
+        "lit": "yes",
+        "loc_ref": "3219_28539",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2193266,
+            45.4561542
+          ],
+          [
+            9.219522,
+            45.4560153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429436",
+      "properties": {
+        "@id": "way/263429436",
+        "highway": "unclassified",
+        "loc_ref": "3219_25391",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2194934,
+            45.4575272
+          ],
+          [
+            9.219322,
+            45.4574315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429437",
+      "properties": {
+        "@id": "way/263429437",
+        "highway": "unclassified",
+        "lit": "yes",
+        "loc_ref": "3219_19482",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2203229,
+            45.4558546
+          ],
+          [
+            9.2208527,
+            45.4558465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429438",
+      "properties": {
+        "@id": "way/263429438",
+        "highway": "unclassified",
+        "lit": "yes",
+        "loc_ref": "3219_19491",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2193295,
+            45.4569151
+          ],
+          [
+            9.219327,
+            45.4562582
+          ],
+          [
+            9.2193266,
+            45.4561542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429439",
+      "properties": {
+        "@id": "way/263429439",
+        "highway": "unclassified",
+        "lit": "yes",
+        "loc_ref": "3219_19481",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.219522,
+            45.4560153
+          ],
+          [
+            9.2199418,
+            45.4558994
+          ],
+          [
+            9.2202849,
+            45.4558591
+          ],
+          [
+            9.2203229,
+            45.4558546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429440",
+      "properties": {
+        "@id": "way/263429440",
+        "highway": "unclassified",
+        "loc_ref": "3219_25393",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2194934,
+            45.4575272
+          ],
+          [
+            9.2193948,
+            45.4575529
+          ],
+          [
+            9.2193492,
+            45.4575735
+          ],
+          [
+            9.2192955,
+            45.4576023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429441",
+      "properties": {
+        "@id": "way/263429441",
+        "highway": "unclassified",
+        "lit": "yes",
+        "loc_ref": "-1",
+        "name": "Piazzale Ferdinando Martini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2208527,
+            45.4558465
+          ],
+          [
+            9.2209278,
+            45.4558683
+          ],
+          [
+            9.2211552,
+            45.4559127
+          ],
+          [
+            9.2213938,
+            45.4559739
+          ],
+          [
+            9.2216169,
+            45.4560439
+          ],
+          [
+            9.2217962,
+            45.4561169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429442",
+      "properties": {
+        "@id": "way/263429442",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "lit": "yes",
+        "loc_ref": "3211_19495",
+        "name": "Via Costanza Arconati",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2190863,
+            45.4576879
+          ],
+          [
+            9.2192007,
+            45.4576512
+          ],
+          [
+            9.219218,
+            45.4576423
+          ],
+          [
+            9.2192955,
+            45.4576023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429443",
+      "properties": {
+        "@id": "way/263429443",
+        "highway": "unclassified",
+        "loc_ref": "3220_24000",
+        "name": "Via Laura Ciceri Visconti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2208683,
+            45.4548429
+          ],
+          [
+            9.220866,
+            45.45492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429444",
+      "properties": {
+        "@id": "way/263429444",
+        "highway": "unclassified",
+        "loc_ref": "3220_24001",
+        "name": "Via Laura Ciceri Visconti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.220866,
+            45.45492
+          ],
+          [
+            9.2208636,
+            45.4549978
+          ],
+          [
+            9.2208528,
+            45.4557615
+          ],
+          [
+            9.2208527,
+            45.4558465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429445",
+      "properties": {
+        "@id": "way/263429445",
+        "highway": "unclassified",
+        "loc_ref": "3220_32896",
+        "name": "Via Laura Ciceri Visconti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2203326,
+            45.4548996
+          ],
+          [
+            9.220339,
+            45.4545374
+          ],
+          [
+            9.2203543,
+            45.4536738
+          ],
+          [
+            9.2203556,
+            45.4535982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263429448",
+      "properties": {
+        "@id": "way/263429448",
+        "highway": "unclassified",
+        "loc_ref": "3212_19496",
+        "name": "Via Vertoiba",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2192822,
+            45.4578031
+          ],
+          [
+            9.2190863,
+            45.4576879
           ]
         ]
       }
