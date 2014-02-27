@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-02-26T16:07:02Z",
+  "timestamp": "2014-02-27T06:46:02Z",
   "features": [
     {
       "type": "Feature",
@@ -461,6 +461,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/8421644",
+      "properties": {
+        "@id": "way/8421644",
+        "bicycle:forward": "yes",
+        "cycling_width": "wide",
+        "highway": "unclassified",
+        "loc_ref": "1630_39480",
+        "name": "Via Sesto San Giovanni",
+        "note": "this way was tagged with psv:backward=desiganted and taxi:backward=designated",
+        "oneway:psv": "no",
+        "psv:forward": "yes",
+        "taxi:forward": "yes",
+        "vehicle:forward": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2192321,
+            45.5202201
+          ],
+          [
+            9.2195118,
+            45.520571
+          ],
+          [
+            9.2207165,
+            45.5217368
+          ],
+          [
+            9.2212971,
+            45.5223222
+          ],
+          [
+            9.2215835,
+            45.5226191
+          ],
+          [
+            9.2218549,
+            45.5229166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/10495084",
       "properties": {
         "@id": "way/10495084",
@@ -831,6 +877,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/23147266",
+      "properties": {
+        "@id": "way/23147266",
+        "highway": "service",
+        "loc_ref": "1667_42934",
+        "name": "Via Emilio Bignami"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2158579,
+            45.5252016
+          ],
+          [
+            9.2145537,
+            45.5256746
+          ],
+          [
+            9.2144669,
+            45.5257074
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23147324",
+      "properties": {
+        "@id": "way/23147324",
+        "highway": "pedestrian",
+        "loc_ref": "1427_34887",
+        "name": "Viale Sarca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2218549,
+            45.5229166
+          ],
+          [
+            9.2216079,
+            45.5230199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/23155093",
       "properties": {
         "@id": "way/23155093",
@@ -865,6 +961,156 @@
           [
             9.1920032,
             45.5082959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23155310",
+      "properties": {
+        "@id": "way/23155310",
+        "cycling_width": "narrow",
+        "highway": "residential",
+        "loc_ref": "1666_4659",
+        "name": "Via Val Cismon"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1967453,
+            45.5054771
+          ],
+          [
+            9.1958172,
+            45.5056959
+          ],
+          [
+            9.1957316,
+            45.5057163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23155311",
+      "properties": {
+        "@id": "way/23155311",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1693_504",
+        "name": "Via Emilio De Martino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1987186,
+            45.5080892
+          ],
+          [
+            9.198597,
+            45.5081162
+          ],
+          [
+            9.1971715,
+            45.5084447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23155319",
+      "properties": {
+        "@id": "way/23155319",
+        "highway": "residential",
+        "loc_ref": "1096_502",
+        "name": "Via Giovanni Battista Palletta",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1913122,
+            45.5098464
+          ],
+          [
+            9.1918729,
+            45.5110028
+          ],
+          [
+            9.191946,
+            45.5111808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23155385",
+      "properties": {
+        "@id": "way/23155385",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1168_509",
+        "name": "Via Valfurva",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1960449,
+            45.5100916
+          ],
+          [
+            9.1960215,
+            45.5100347
+          ],
+          [
+            9.1954789,
+            45.5089364
+          ],
+          [
+            9.1954391,
+            45.5088571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23155731",
+      "properties": {
+        "@id": "way/23155731",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1671_4660",
+        "name": "Via Val Di Nievole",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1957316,
+            45.5057163
+          ],
+          [
+            9.1955476,
+            45.5053448
+          ],
+          [
+            9.1969371,
+            45.5050185
+          ],
+          [
+            9.1970738,
+            45.5049868
           ]
         ]
       }
@@ -1036,6 +1282,161 @@
     },
     {
       "type": "Feature",
+      "id": "way/23396325",
+      "properties": {
+        "@id": "way/23396325",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1664_28646",
+        "name": "Largo Rapallo",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1911394,
+            45.506503
+          ],
+          [
+            9.192256,
+            45.5062412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23396348",
+      "properties": {
+        "@id": "way/23396348",
+        "highway": "residential",
+        "loc_ref": "1527_30584",
+        "name": "Via Michele De Angelis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1928411,
+            45.5070046
+          ],
+          [
+            9.1927558,
+            45.5069378
+          ],
+          [
+            9.1925485,
+            45.5064742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23396394",
+      "properties": {
+        "@id": "way/23396394",
+        "highway": "residential",
+        "loc_ref": "1443_36422",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1902603,
+            45.5077655
+          ],
+          [
+            9.1901961,
+            45.5076438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23396423",
+      "properties": {
+        "@id": "way/23396423",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1722_28528",
+        "name": "Largo San Dionigi In Pratocentenaro",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1994147,
+            45.5093883
+          ],
+          [
+            9.1988583,
+            45.5092578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23422886",
+      "properties": {
+        "@id": "way/23422886",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "lanes": "2",
+        "loc_ref": "1098_505",
+        "name": "Via Val Maira",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1971715,
+            45.5084447
+          ],
+          [
+            9.1957663,
+            45.5087795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23423180",
+      "properties": {
+        "@id": "way/23423180",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1666_27630",
+        "name": "Via Val Cismon",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1943566,
+            45.5066487
+          ],
+          [
+            9.1945649,
+            45.5065075
+          ],
+          [
+            9.1947087,
+            45.5064438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/23423191",
       "properties": {
         "@id": "way/23423191",
@@ -1049,8 +1450,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            9.1948266,
-            45.5076159
+            9.1948274,
+            45.5076176
           ],
           [
             9.1947976,
@@ -1061,8 +1462,8 @@
             45.5067198
           ],
           [
-            9.1943618,
-            45.5066479
+            9.1943566,
+            45.5066487
           ]
         ]
       }
@@ -1088,6 +1489,37 @@
           [
             9.1951932,
             45.5075945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23450782",
+      "properties": {
+        "@id": "way/23450782",
+        "highway": "service",
+        "loc_ref": "1443_35052",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1908284,
+            45.508867
+          ],
+          [
+            9.1905656,
+            45.5090351
+          ],
+          [
+            9.1905526,
+            45.509061
+          ],
+          [
+            9.1906377,
+            45.5092465
           ]
         ]
       }
@@ -1126,6 +1558,34 @@
           [
             9.2212812,
             45.4765048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23734465",
+      "properties": {
+        "@id": "way/23734465",
+        "cycling_width": "narrow",
+        "highway": "residential",
+        "loc_ref": "1672_5047",
+        "name": "Via Costalovara"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1945449,
+            45.5042918
+          ],
+          [
+            9.1945721,
+            45.5043401
+          ],
+          [
+            9.1948676,
+            45.5049534
           ]
         ]
       }
@@ -1658,6 +2118,70 @@
     },
     {
       "type": "Feature",
+      "id": "way/25894761",
+      "properties": {
+        "@id": "way/25894761",
+        "highway": "residential",
+        "loc_ref": "2450_3707",
+        "name": "Via Porto Corsini",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2229094,
+            45.5227796
+          ],
+          [
+            9.2230286,
+            45.5227824
+          ],
+          [
+            9.2235601,
+            45.5228459
+          ],
+          [
+            9.223649,
+            45.5228563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25962756",
+      "properties": {
+        "@id": "way/25962756",
+        "highway": "service",
+        "loc_ref": "1667_42935",
+        "name": "Via Emilio Bignami",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2169448,
+            45.5244846
+          ],
+          [
+            9.2159193,
+            45.5248668
+          ],
+          [
+            9.2158343,
+            45.5250036
+          ],
+          [
+            9.2158579,
+            45.5252016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/27003599",
       "properties": {
         "@id": "way/27003599",
@@ -1706,6 +2230,47 @@
           [
             9.2261897,
             45.4621038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27353661",
+      "properties": {
+        "@id": "way/27353661",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "name": "Via Bergamo",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0501264,
+            45.5913782
+          ],
+          [
+            9.0500199,
+            45.5913442
+          ],
+          [
+            9.0499394,
+            45.5913292
+          ],
+          [
+            9.0498643,
+            45.5913367
+          ],
+          [
+            9.0497705,
+            45.5913555
+          ],
+          [
+            9.0495594,
+            45.5914051
           ]
         ]
       }
@@ -1980,6 +2545,39 @@
     },
     {
       "type": "Feature",
+      "id": "way/28227854",
+      "properties": {
+        "@id": "way/28227854",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "name": "Via Bergamo",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0495594,
+            45.5914051
+          ],
+          [
+            9.0498429,
+            45.5912823
+          ],
+          [
+            9.0499904,
+            45.5912203
+          ],
+          [
+            9.0500631,
+            45.5911908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/28527958",
       "properties": {
         "@id": "way/28527958",
@@ -2228,6 +2826,105 @@
     },
     {
       "type": "Feature",
+      "id": "way/29200756",
+      "properties": {
+        "@id": "way/29200756",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "loc_ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0959677,
+            45.5463949
+          ],
+          [
+            9.096086,
+            45.5462788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29200757",
+      "properties": {
+        "@id": "way/29200757",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "name": "Via Trento",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.096086,
+            45.5462788
+          ],
+          [
+            9.0964139,
+            45.545973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29202848",
+      "properties": {
+        "@id": "way/29202848",
+        "bridge": "yes",
+        "highway": "primary",
+        "layer": "1",
+        "loc_ref": "SP233",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0705869,
+            45.5712039
+          ],
+          [
+            9.0708551,
+            45.5709122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29202849",
+      "properties": {
+        "@id": "way/29202849",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0708551,
+            45.5709122
+          ],
+          [
+            9.0710601,
+            45.5707618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/30632761",
       "properties": {
         "@id": "way/30632761",
@@ -2243,8 +2940,8 @@
             45.5084903
           ],
           [
-            9.1921331,
-            45.5085677
+            9.1921355,
+            45.508566
           ]
         ]
       }
@@ -2287,8 +2984,8 @@
             45.5074055
           ],
           [
-            9.1915349,
-            45.5073243
+            9.1915331,
+            45.5073251
           ]
         ]
       }
@@ -2345,6 +3042,33 @@
           [
             9.224985,
             45.4606803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32397445",
+      "properties": {
+        "@id": "way/32397445",
+        "highway": "residential",
+        "loc_ref": "5400_41258",
+        "name": "Via Manduria"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.182851,
+            45.4030407
+          ],
+          [
+            9.1830027,
+            45.4027801
+          ],
+          [
+            9.1830354,
+            45.4027168
           ]
         ]
       }
@@ -2572,6 +3296,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/41519610",
+      "properties": {
+        "@id": "way/41519610",
+        "highway": "unclassified",
+        "loc_ref": "5400_14526",
+        "name": "Via Manduria",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1818941,
+            45.4019928
+          ],
+          [
+            9.1818494,
+            45.4020026
+          ],
+          [
+            9.1814229,
+            45.4018585
+          ],
+          [
+            9.1810747,
+            45.4017611
+          ],
+          [
+            9.1803068,
+            45.4015746
+          ],
+          [
+            9.179617,
+            45.4014157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/42870937",
       "properties": {
         "@id": "way/42870937",
@@ -2604,6 +3368,79 @@
     },
     {
       "type": "Feature",
+      "id": "way/43852272",
+      "properties": {
+        "@id": "way/43852272",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "name": "Via Milano",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1069629,
+            45.5335236
+          ],
+          [
+            9.1071134,
+            45.5334203
+          ],
+          [
+            9.1071831,
+            45.5333771
+          ],
+          [
+            9.1072556,
+            45.5333226
+          ],
+          [
+            9.107336,
+            45.5332268
+          ],
+          [
+            9.1082692,
+            45.5320211
+          ],
+          [
+            9.1085055,
+            45.5317008
+          ],
+          [
+            9.1087491,
+            45.5313996
+          ],
+          [
+            9.1089182,
+            45.5311725
+          ],
+          [
+            9.1089916,
+            45.5310537
+          ],
+          [
+            9.1090506,
+            45.5309222
+          ],
+          [
+            9.1091043,
+            45.5307587
+          ],
+          [
+            9.1091445,
+            45.5305633
+          ],
+          [
+            9.1091423,
+            45.5303195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/44423032",
       "properties": {
         "@id": "way/44423032",
@@ -2626,6 +3463,62 @@
           [
             9.1667181,
             45.4872415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51720246",
+      "properties": {
+        "@id": "way/51720246",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "name": "Strada Statale 233 Varesina",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0251633,
+            45.6017279
+          ],
+          [
+            9.0254899,
+            45.6015123
+          ],
+          [
+            9.0259741,
+            45.6010649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57731640",
+      "properties": {
+        "@id": "way/57731640",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0811345,
+            45.560766
+          ],
+          [
+            9.0811989,
+            45.5607413
+          ],
+          [
+            9.0812997,
+            45.5606858
           ]
         ]
       }
@@ -2711,6 +3604,65 @@
           [
             9.1295754,
             45.4597838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59461451",
+      "properties": {
+        "@id": "way/59461451",
+        "highway": "unclassified",
+        "loc_ref": "5400_34059",
+        "name": "Via Manduria"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1830354,
+            45.4027168
+          ],
+          [
+            9.1828155,
+            45.4026284
+          ],
+          [
+            9.1826789,
+            45.4025631
+          ],
+          [
+            9.1825584,
+            45.4024999
+          ],
+          [
+            9.1824292,
+            45.4024409
+          ],
+          [
+            9.1821909,
+            45.4023382
+          ],
+          [
+            9.182039,
+            45.402084
+          ],
+          [
+            9.182015,
+            45.4020518
+          ],
+          [
+            9.1819834,
+            45.4020274
+          ],
+          [
+            9.1819516,
+            45.4020086
+          ],
+          [
+            9.1818941,
+            45.4019928
           ]
         ]
       }
@@ -3316,6 +4268,122 @@
     },
     {
       "type": "Feature",
+      "id": "way/134742924",
+      "properties": {
+        "@id": "way/134742924",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0652781,
+            45.5763482
+          ],
+          [
+            9.0653823,
+            45.5763333
+          ],
+          [
+            9.06544,
+            45.5763174
+          ],
+          [
+            9.0654963,
+            45.5763005
+          ],
+          [
+            9.0655499,
+            45.5762742
+          ],
+          [
+            9.0655914,
+            45.5762409
+          ],
+          [
+            9.0657695,
+            45.5760698
+          ],
+          [
+            9.06707,
+            45.5747135
+          ],
+          [
+            9.0671048,
+            45.5746792
+          ],
+          [
+            9.0673431,
+            45.5744444
+          ],
+          [
+            9.0674965,
+            45.5742939
+          ],
+          [
+            9.0675849,
+            45.5742136
+          ],
+          [
+            9.0676448,
+            45.5741496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134874670",
+      "properties": {
+        "@id": "way/134874670",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.064317,
+            45.5775485
+          ],
+          [
+            9.0643887,
+            45.5774327
+          ],
+          [
+            9.0648769,
+            45.5770019
+          ],
+          [
+            9.065079,
+            45.5767335
+          ],
+          [
+            9.0650914,
+            45.5767076
+          ],
+          [
+            9.065098,
+            45.5766786
+          ],
+          [
+            9.0650911,
+            45.576634
+          ],
+          [
+            9.0650652,
+            45.5765662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/135563663",
       "properties": {
         "@id": "way/135563663",
@@ -3352,15 +4420,15 @@
         "type": "LineString",
         "coordinates": [
           [
-            9.1921331,
-            45.5085677
+            9.1921355,
+            45.508566
           ],
           [
             9.1920268,
             45.5085906
           ],
           [
-            9.1908541,
+            9.1908284,
             45.508867
           ]
         ]
@@ -3478,6 +4546,145 @@
     },
     {
       "type": "Feature",
+      "id": "way/152836629",
+      "properties": {
+        "@id": "way/152836629",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "name": "Via Bergamo",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0272336,
+            45.6007079
+          ],
+          [
+            9.0270234,
+            45.6009022
+          ],
+          [
+            9.0268767,
+            45.6010327
+          ],
+          [
+            9.0267716,
+            45.6011504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152836630",
+      "properties": {
+        "@id": "way/152836630",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "name": "Via Bergamo",
+        "oneway": "-1",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0272336,
+            45.6007079
+          ],
+          [
+            9.0265813,
+            45.6009176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152836632",
+      "properties": {
+        "@id": "way/152836632",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "name": "Via Bergamo",
+        "oneway": "no",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0495594,
+            45.5914051
+          ],
+          [
+            9.0477729,
+            45.5917969
+          ],
+          [
+            9.0471895,
+            45.5919194
+          ],
+          [
+            9.0464174,
+            45.5920817
+          ],
+          [
+            9.0449734,
+            45.5923888
+          ],
+          [
+            9.0448466,
+            45.5924158
+          ],
+          [
+            9.0437891,
+            45.5926441
+          ],
+          [
+            9.042974,
+            45.5928802
+          ],
+          [
+            9.0426914,
+            45.5929787
+          ],
+          [
+            9.0425442,
+            45.5930288
+          ],
+          [
+            9.0424166,
+            45.5930745
+          ],
+          [
+            9.0422685,
+            45.5931305
+          ],
+          [
+            9.0418304,
+            45.5933008
+          ],
+          [
+            9.0413632,
+            45.5935013
+          ],
+          [
+            9.0393652,
+            45.594509
+          ],
+          [
+            9.0391717,
+            45.5946047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/157284713",
       "properties": {
         "@id": "way/157284713",
@@ -3534,6 +4741,336 @@
           [
             9.2131357,
             45.4860262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162546926",
+      "properties": {
+        "@id": "way/162546926",
+        "embankment": "yes",
+        "fixme": "check if bicycles and moped can access this road in abckward direction (towards North)",
+        "highway": "tertiary",
+        "incline": "up",
+        "loc_ref": "1630_31372",
+        "name": "Via Sesto San Giovanni",
+        "note": "this way was tagged with psv:backward=desiganted and taxi:backward=designated",
+        "oneway:psv": "no",
+        "psv:forward": "yes",
+        "taxi:forward": "yes",
+        "vehicle:forward": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2218549,
+            45.5229166
+          ],
+          [
+            9.222003,
+            45.5230756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162546929",
+      "properties": {
+        "@id": "way/162546929",
+        "access": "no",
+        "embankment": "yes",
+        "fixme": "check if bicycles and moped can access this road in abckward direction (towards North)",
+        "foot": "yes",
+        "highway": "tertiary",
+        "incline": "up",
+        "loc_ref": "2450_29275",
+        "motor_vehicle": "no",
+        "name": "Via Porto Corsini",
+        "note": "this way was tagged with psv:backward=desiganted and taxi:backward=designated",
+        "oneway": "yes",
+        "psv": "yes",
+        "taxi": "yes",
+        "vehicle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.222003,
+            45.5230756
+          ],
+          [
+            9.2221454,
+            45.5231207
+          ],
+          [
+            9.2221854,
+            45.5231247
+          ],
+          [
+            9.2222673,
+            45.5231184
+          ],
+          [
+            9.2223269,
+            45.5230976
+          ],
+          [
+            9.2224226,
+            45.5230572
+          ],
+          [
+            9.2226271,
+            45.5229699
+          ],
+          [
+            9.2228182,
+            45.5228886
+          ],
+          [
+            9.2228904,
+            45.5228693
+          ],
+          [
+            9.2229846,
+            45.5228536
+          ],
+          [
+            9.2230842,
+            45.5228443
+          ],
+          [
+            9.223215,
+            45.5228536
+          ],
+          [
+            9.2238882,
+            45.5229389
+          ],
+          [
+            9.2242175,
+            45.5229803
+          ],
+          [
+            9.2242657,
+            45.5229917
+          ],
+          [
+            9.2244964,
+            45.5230468
+          ],
+          [
+            9.2245554,
+            45.5230554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162546938",
+      "properties": {
+        "@id": "way/162546938",
+        "cycling_width": "wide",
+        "highway": "unclassified",
+        "loc_ref": "2342_5918",
+        "name": "Via Ernesto Breda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2235104,
+            45.523548
+          ],
+          [
+            9.2231742,
+            45.523119
+          ],
+          [
+            9.2231154,
+            45.5230475
+          ],
+          [
+            9.2230747,
+            45.5229981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162619131",
+      "properties": {
+        "@id": "way/162619131",
+        "highway": "residential",
+        "lanes": "2",
+        "loc_ref": "1097_731",
+        "name": "Via Cherasco",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1926038,
+            45.5095333
+          ],
+          [
+            9.1926459,
+            45.5096184
+          ],
+          [
+            9.1931992,
+            45.5107497
+          ],
+          [
+            9.1932092,
+            45.5107686
+          ],
+          [
+            9.1932288,
+            45.51081
+          ],
+          [
+            9.1932456,
+            45.5108494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163863028",
+      "properties": {
+        "@id": "way/163863028",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1530_4663",
+        "maxspeed": "50",
+        "name": "Via Padre Pier Luigi Monti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1967736,
+            45.5044923
+          ],
+          [
+            9.1966893,
+            45.5045125
+          ],
+          [
+            9.1949176,
+            45.5049415
+          ],
+          [
+            9.1948676,
+            45.5049534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165080558",
+      "properties": {
+        "@id": "way/165080558",
+        "highway": "service",
+        "loc_ref": "1446_4953",
+        "name": "Viale Giovanni Suzzani"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1986932,
+            45.5080414
+          ],
+          [
+            9.1987384,
+            45.5079979
+          ],
+          [
+            9.1994498,
+            45.5078388
+          ],
+          [
+            9.1998035,
+            45.5077844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168728087",
+      "properties": {
+        "@id": "way/168728087",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "name": "Via Giuseppe Garibaldi",
+        "oneway": "no",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0710601,
+            45.5707618
+          ],
+          [
+            9.0719522,
+            45.5698627
+          ],
+          [
+            9.0720442,
+            45.5697677
+          ],
+          [
+            9.0731333,
+            45.568711
+          ],
+          [
+            9.0733548,
+            45.5684911
+          ],
+          [
+            9.0735966,
+            45.5682629
+          ],
+          [
+            9.0736028,
+            45.5682524
+          ],
+          [
+            9.0737934,
+            45.5680429
+          ],
+          [
+            9.0739974,
+            45.5678426
+          ],
+          [
+            9.074216,
+            45.5676326
+          ],
+          [
+            9.0759521,
+            45.565937
+          ],
+          [
+            9.0761756,
+            45.5657456
           ]
         ]
       }
@@ -3710,6 +5247,153 @@
     },
     {
       "type": "Feature",
+      "id": "way/168794696",
+      "properties": {
+        "@id": "way/168794696",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0788706,
+            45.5631462
+          ],
+          [
+            9.0787686,
+            45.5631941
+          ],
+          [
+            9.0786927,
+            45.5632339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168794704",
+      "properties": {
+        "@id": "way/168794704",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0786927,
+            45.5632339
+          ],
+          [
+            9.0787061,
+            45.5631749
+          ],
+          [
+            9.0787093,
+            45.5630954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168840412",
+      "properties": {
+        "@id": "way/168840412",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1530_4666",
+        "maxspeed": "50",
+        "name": "Via Padre Pier Luigi Monti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1921503,
+            45.5056025
+          ],
+          [
+            9.1920822,
+            45.5056185
+          ],
+          [
+            9.1909632,
+            45.5058871
+          ],
+          [
+            9.1908387,
+            45.505917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168840413",
+      "properties": {
+        "@id": "way/168840413",
+        "cycling_width": "narrow",
+        "highway": "residential",
+        "loc_ref": "1530_4664",
+        "maxspeed": "50",
+        "name": "Via Padre Pier Luigi Monti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1948676,
+            45.5049534
+          ],
+          [
+            9.1934783,
+            45.5052834
+          ],
+          [
+            9.1934247,
+            45.5052962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168840417",
+      "properties": {
+        "@id": "way/168840417",
+        "cycling_width": "narrow",
+        "highway": "residential",
+        "loc_ref": "1666_29153",
+        "name": "Via Val Cismon",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1947087,
+            45.5064438
+          ],
+          [
+            9.1949391,
+            45.5063852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/173087891",
       "properties": {
         "@id": "way/173087891",
@@ -3729,6 +5413,61 @@
           [
             9.221526,
             45.4765029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178686926",
+      "properties": {
+        "@id": "way/178686926",
+        "highway": "service",
+        "loc_ref": "1667_42943",
+        "name": "Via Emilio Bignami",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2187662,
+            45.5241013
+          ],
+          [
+            9.2187291,
+            45.5240172
+          ],
+          [
+            9.2186239,
+            45.5238384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178686928",
+      "properties": {
+        "@id": "way/178686928",
+        "highway": "service",
+        "loc_ref": "-9999_42889",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2171931,
+            45.5218841
+          ],
+          [
+            9.2172747,
+            45.5219345
+          ],
+          [
+            9.217655,
+            45.5224119
           ]
         ]
       }
@@ -3832,6 +5571,243 @@
     },
     {
       "type": "Feature",
+      "id": "way/184231603",
+      "properties": {
+        "@id": "way/184231603",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "name": "Via Milano",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1066185,
+            45.5341665
+          ],
+          [
+            9.1067472,
+            45.5339391
+          ],
+          [
+            9.1067728,
+            45.533847
+          ],
+          [
+            9.1067796,
+            45.5337436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187940251",
+      "properties": {
+        "@id": "way/187940251",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "name": "Via Bergamo",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0360992,
+            45.5961771
+          ],
+          [
+            9.0361582,
+            45.596117
+          ],
+          [
+            9.0363376,
+            45.5960174
+          ],
+          [
+            9.0364717,
+            45.5959429
+          ],
+          [
+            9.036802,
+            45.5957661
+          ],
+          [
+            9.0371649,
+            45.5955781
+          ],
+          [
+            9.0373214,
+            45.595497
+          ],
+          [
+            9.0374833,
+            45.5954132
+          ],
+          [
+            9.0376836,
+            45.5953178
+          ],
+          [
+            9.0382976,
+            45.5950169
+          ],
+          [
+            9.0384636,
+            45.5949339
+          ],
+          [
+            9.0385669,
+            45.5948823
+          ],
+          [
+            9.0386668,
+            45.5948324
+          ],
+          [
+            9.0388566,
+            45.5947376
+          ],
+          [
+            9.0390228,
+            45.5946606
+          ],
+          [
+            9.0391717,
+            45.5946047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187940252",
+      "properties": {
+        "@id": "way/187940252",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "name": "Via Bergamo",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0391717,
+            45.5946047
+          ],
+          [
+            9.0390524,
+            45.5946925
+          ],
+          [
+            9.0389151,
+            45.5947656
+          ],
+          [
+            9.0382906,
+            45.5950961
+          ],
+          [
+            9.03798,
+            45.5952519
+          ],
+          [
+            9.0377032,
+            45.5953907
+          ],
+          [
+            9.0376526,
+            45.5954145
+          ],
+          [
+            9.0373465,
+            45.595569
+          ],
+          [
+            9.0371387,
+            45.59567
+          ],
+          [
+            9.0369192,
+            45.5957843
+          ],
+          [
+            9.0364318,
+            45.5960344
+          ],
+          [
+            9.0362575,
+            45.5961189
+          ],
+          [
+            9.0360992,
+            45.5961771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187940255",
+      "properties": {
+        "@id": "way/187940255",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "name": "Via Bergamo",
+        "oneway": "no",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0360992,
+            45.5961771
+          ],
+          [
+            9.0334752,
+            45.5975146
+          ],
+          [
+            9.030873,
+            45.5988465
+          ],
+          [
+            9.030728,
+            45.5989264
+          ],
+          [
+            9.0299916,
+            45.5993042
+          ],
+          [
+            9.0298518,
+            45.5993741
+          ],
+          [
+            9.0296949,
+            45.599455
+          ],
+          [
+            9.0292705,
+            45.5996721
+          ],
+          [
+            9.0272336,
+            45.6007079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/190443082",
       "properties": {
         "@id": "way/190443082",
@@ -3869,6 +5845,318 @@
           [
             9.2156142,
             45.4862029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191102436",
+      "properties": {
+        "@id": "way/191102436",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "name": "Via Trento",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0964139,
+            45.545973
+          ],
+          [
+            9.0964578,
+            45.5459259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191971489",
+      "properties": {
+        "@id": "way/191971489",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.094772,
+            45.547525
+          ],
+          [
+            9.0958932,
+            45.5464653
+          ],
+          [
+            9.0959677,
+            45.5463949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191971495",
+      "properties": {
+        "@id": "way/191971495",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "name": "Via Trento",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0964578,
+            45.5459259
+          ],
+          [
+            9.096654,
+            45.5457228
+          ],
+          [
+            9.0968783,
+            45.545482
+          ],
+          [
+            9.0987985,
+            45.5435704
+          ],
+          [
+            9.0990456,
+            45.5433166
+          ],
+          [
+            9.0991537,
+            45.5431776
+          ],
+          [
+            9.1007178,
+            45.5416596
+          ],
+          [
+            9.1007476,
+            45.5416299
+          ],
+          [
+            9.1010125,
+            45.5413502
+          ],
+          [
+            9.1011172,
+            45.5412501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194169886",
+      "properties": {
+        "@id": "way/194169886",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "name": "Via Giuseppe Garibaldi",
+        "oneway": "no",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0761756,
+            45.5657456
+          ],
+          [
+            9.0769516,
+            45.5649685
+          ],
+          [
+            9.0786927,
+            45.5632339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203091582",
+      "properties": {
+        "@id": "way/203091582",
+        "highway": "primary",
+        "loc_ref": "SP233",
+        "oneway": "yes",
+        "ref": "SP233"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0676448,
+            45.5741496
+          ],
+          [
+            9.0679887,
+            45.5738086
+          ],
+          [
+            9.0686343,
+            45.5731727
+          ],
+          [
+            9.0692643,
+            45.5725521
+          ],
+          [
+            9.0693824,
+            45.5724317
+          ],
+          [
+            9.0695349,
+            45.5722763
+          ],
+          [
+            9.0705869,
+            45.5712039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203091603",
+      "properties": {
+        "@id": "way/203091603",
+        "highway": "primary",
+        "layer": "0",
+        "loc_ref": "SP233",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0904164,
+            45.5519018
+          ],
+          [
+            9.094772,
+            45.547525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211201049",
+      "properties": {
+        "@id": "way/211201049",
+        "highway": "service",
+        "loc_ref": "-1",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.179617,
+            45.4014157
+          ],
+          [
+            9.1795008,
+            45.4014916
+          ],
+          [
+            9.1794244,
+            45.4015108
+          ],
+          [
+            9.1793292,
+            45.4014972
+          ],
+          [
+            9.1792055,
+            45.4014407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211201050",
+      "properties": {
+        "@id": "way/211201050",
+        "highway": "unclassified",
+        "loc_ref": "-1",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.179617,
+            45.4014157
+          ],
+          [
+            9.1794175,
+            45.4013973
+          ],
+          [
+            9.1792937,
+            45.4014144
+          ],
+          [
+            9.1792055,
+            45.4014407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211201134",
+      "properties": {
+        "@id": "way/211201134",
+        "highway": "unclassified",
+        "loc_ref": "5400_14529",
+        "name": "Via Manduria",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1792055,
+            45.4014407
+          ],
+          [
+            9.1791083,
+            45.4015172
+          ],
+          [
+            9.1790337,
+            45.4015759
+          ],
+          [
+            9.1784149,
+            45.4021468
+          ],
+          [
+            9.1783482,
+            45.4022083
           ]
         ]
       }
@@ -3923,8 +6211,8 @@
             45.5076297
           ],
           [
-            9.1948266,
-            45.5076159
+            9.1948274,
+            45.5076176
           ]
         ]
       }
@@ -9084,6 +11372,620 @@
     },
     {
       "type": "Feature",
+      "id": "way/263391411",
+      "properties": {
+        "@id": "way/263391411",
+        "highway": "service",
+        "loc_ref": "1667_42951",
+        "name": "Via Emilio Bignami"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2216079,
+            45.5230199
+          ],
+          [
+            9.2204956,
+            45.5234488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391413",
+      "properties": {
+        "@id": "way/263391413",
+        "highway": "service",
+        "loc_ref": "1667_42949",
+        "name": "Via Emilio Bignami",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2187116,
+            45.5238011
+          ],
+          [
+            9.2188683,
+            45.5240718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391415",
+      "properties": {
+        "@id": "way/263391415",
+        "highway": "service",
+        "loc_ref": "1667_42952",
+        "name": "Via Emilio Bignami"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2204956,
+            45.5234488
+          ],
+          [
+            9.2188683,
+            45.5240718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391417",
+      "properties": {
+        "@id": "way/263391417",
+        "highway": "service",
+        "loc_ref": "1667_42947",
+        "name": "Via Emilio Bignami"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2188683,
+            45.5240718
+          ],
+          [
+            9.2187662,
+            45.5241013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391419",
+      "properties": {
+        "@id": "way/263391419",
+        "highway": "service",
+        "loc_ref": "1667_42941",
+        "name": "Via Emilio Bignami"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2187662,
+            45.5241013
+          ],
+          [
+            9.217311,
+            45.5246644
+          ],
+          [
+            9.2158579,
+            45.5252016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391420",
+      "properties": {
+        "@id": "way/263391420",
+        "highway": "service",
+        "loc_ref": "1667_42954",
+        "name": "Via Emilio Bignami",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2204956,
+            45.5234488
+          ],
+          [
+            9.2202935,
+            45.5231934
+          ],
+          [
+            9.2187116,
+            45.5238011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391422",
+      "properties": {
+        "@id": "way/263391422",
+        "cycling_width": "wide",
+        "highway": "unclassified",
+        "loc_ref": "2342_15316",
+        "name": "Via Ernesto Breda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2230747,
+            45.5229981
+          ],
+          [
+            9.2230096,
+            45.5229139
+          ],
+          [
+            9.2229094,
+            45.5227796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391425",
+      "properties": {
+        "@id": "way/263391425",
+        "cycling_width": "wide",
+        "highway": "unclassified",
+        "loc_ref": "2342_26150",
+        "name": "Via Ernesto Breda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2219788,
+            45.5213195
+          ],
+          [
+            9.2220038,
+            45.521363
+          ],
+          [
+            9.2220156,
+            45.5213862
+          ],
+          [
+            9.2222871,
+            45.5218237
+          ],
+          [
+            9.2229094,
+            45.5227796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391431",
+      "properties": {
+        "@id": "way/263391431",
+        "highway": "service",
+        "loc_ref": "-9999_42907",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2176055,
+            45.522516
+          ],
+          [
+            9.2173855,
+            45.5225598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391433",
+      "properties": {
+        "@id": "way/263391433",
+        "highway": "service",
+        "loc_ref": "-9999_42909",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.217655,
+            45.5224119
+          ],
+          [
+            9.2175373,
+            45.5224423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391435",
+      "properties": {
+        "@id": "way/263391435",
+        "highway": "service",
+        "loc_ref": "-9999_42916",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2173415,
+            45.5224855
+          ],
+          [
+            9.2175373,
+            45.5224423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391437",
+      "properties": {
+        "@id": "way/263391437",
+        "highway": "service",
+        "loc_ref": "-9999_42918",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.217655,
+            45.5224119
+          ],
+          [
+            9.2178966,
+            45.5227512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391440",
+      "properties": {
+        "@id": "way/263391440",
+        "highway": "service",
+        "loc_ref": "-9999_42926",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2181402,
+            45.5232076
+          ],
+          [
+            9.2178082,
+            45.5227746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391442",
+      "properties": {
+        "@id": "way/263391442",
+        "highway": "service",
+        "loc_ref": "-9999_42930"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2181402,
+            45.5232076
+          ],
+          [
+            9.2182237,
+            45.5231726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391444",
+      "properties": {
+        "@id": "way/263391444",
+        "highway": "service",
+        "loc_ref": "-9999_42955",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2187116,
+            45.5238011
+          ],
+          [
+            9.2186239,
+            45.5238384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391446",
+      "properties": {
+        "@id": "way/263391446",
+        "highway": "service",
+        "loc_ref": "-9999_42910",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2178082,
+            45.5227746
+          ],
+          [
+            9.2176055,
+            45.522516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391448",
+      "properties": {
+        "@id": "way/263391448",
+        "highway": "service",
+        "loc_ref": "-9999_42917",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.217655,
+            45.5224119
+          ],
+          [
+            9.2176055,
+            45.522516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391451",
+      "properties": {
+        "@id": "way/263391451",
+        "highway": "service",
+        "loc_ref": "-9999_42919"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2178082,
+            45.5227746
+          ],
+          [
+            9.2178966,
+            45.5227512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391453",
+      "properties": {
+        "@id": "way/263391453",
+        "highway": "service",
+        "loc_ref": "-9999_42908",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2176055,
+            45.522516
+          ],
+          [
+            9.2175373,
+            45.5224423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391455",
+      "properties": {
+        "@id": "way/263391455",
+        "highway": "service",
+        "loc_ref": "-9999_42923",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2182237,
+            45.5231726
+          ],
+          [
+            9.2187116,
+            45.5238011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391457",
+      "properties": {
+        "@id": "way/263391457",
+        "highway": "service",
+        "loc_ref": "-9999_42924",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2178966,
+            45.5227512
+          ],
+          [
+            9.2182237,
+            45.5231726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391460",
+      "properties": {
+        "@id": "way/263391460",
+        "highway": "service",
+        "loc_ref": "-9999_42925",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2186239,
+            45.5238384
+          ],
+          [
+            9.2181402,
+            45.5232076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391462",
+      "properties": {
+        "@id": "way/263391462",
+        "highway": "service",
+        "loc_ref": "-9999_42937",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2169448,
+            45.5244846
+          ],
+          [
+            9.2170264,
+            45.52459
+          ],
+          [
+            9.217368,
+            45.5244526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391465",
+      "properties": {
+        "@id": "way/263391465",
+        "highway": "service",
+        "loc_ref": "-9999_42887",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2175373,
+            45.5224423
+          ],
+          [
+            9.2171933,
+            45.5219413
+          ],
+          [
+            9.2171931,
+            45.5218841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263391467",
+      "properties": {
+        "@id": "way/263391467",
+        "highway": "service",
+        "loc_ref": "-9999_42931",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2186239,
+            45.5238384
+          ],
+          [
+            9.2173169,
+            45.5243175
+          ],
+          [
+            9.2169448,
+            45.5244846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/263423785",
       "properties": {
         "@id": "way/263423785",
@@ -9126,20 +12028,72 @@
         "type": "LineString",
         "coordinates": [
           [
-            9.1921331,
-            45.5085677
+            9.1921355,
+            45.508566
           ],
           [
             9.1921752,
             45.5086459
           ],
           [
-            9.1925646,
-            45.509461
+            9.1925694,
+            45.5094597
           ],
           [
-            9.192609,
-            45.5095319
+            9.1926038,
+            45.5095333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423787",
+      "properties": {
+        "@id": "way/263423787",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1526_525",
+        "name": "Via Francesco Gatti"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1915331,
+            45.5073251
+          ],
+          [
+            9.1914942,
+            45.507244
+          ],
+          [
+            9.1912328,
+            45.5066982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423788",
+      "properties": {
+        "@id": "way/263423788",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1527_36416",
+        "name": "Via Michele De Angelis"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1901961,
+            45.5076438
+          ],
+          [
+            9.1895803,
+            45.5077908
           ]
         ]
       }
@@ -9162,8 +12116,8 @@
             45.5068052
           ],
           [
-            9.1928455,
-            45.5070102
+            9.1928411,
+            45.5070046
           ]
         ]
       }
@@ -9206,16 +12160,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            9.1928455,
-            45.5070102
+            9.1928411,
+            45.5070046
           ],
           [
             9.1916306,
             45.5073004
           ],
           [
-            9.1915349,
-            45.5073243
+            9.1915331,
+            45.5073251
           ]
         ]
       }
@@ -9234,8 +12188,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            9.1943618,
-            45.5066479
+            9.1943566,
+            45.5066487
           ],
           [
             9.1942732,
@@ -9262,20 +12216,105 @@
         "type": "LineString",
         "coordinates": [
           [
-            9.1915349,
-            45.5073243
+            9.1915331,
+            45.5073251
           ],
           [
             9.1914294,
             45.5073509
           ],
           [
-            9.1910762,
-            45.507437
+            9.1910748,
+            45.5074341
           ],
           [
-            9.1901997,
-            45.5076462
+            9.1901961,
+            45.5076438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423795",
+      "properties": {
+        "@id": "way/263423795",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "loc_ref": "1537_30846",
+        "name": "Via Angelo De Gasperis",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1943566,
+            45.5066487
+          ],
+          [
+            9.1947008,
+            45.5065995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423796",
+      "properties": {
+        "@id": "way/263423796",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "lanes": "2",
+        "loc_ref": "1098_501",
+        "name": "Via Val Maira",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1913122,
+            45.5098464
+          ],
+          [
+            9.1909063,
+            45.5099467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423797",
+      "properties": {
+        "@id": "way/263423797",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "lanes": "2",
+        "loc_ref": "1098_11396",
+        "name": "Via Val Maira",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1926038,
+            45.5095333
+          ],
+          [
+            9.1925316,
+            45.5095522
+          ],
+          [
+            9.1924194,
+            45.5095789
+          ],
+          [
+            9.1913122,
+            45.5098464
           ]
         ]
       }
@@ -9297,7 +12336,7 @@
         "coordinates": [
           [
             9.1954391,
-            45.5088562
+            45.5088571
           ],
           [
             9.1953504,
@@ -9316,8 +12355,8 @@
             45.5095149
           ],
           [
-            9.192609,
-            45.5095319
+            9.1926038,
+            45.5095333
           ]
         ]
       }
@@ -9341,6 +12380,31 @@
           [
             9.1956358,
             45.5085103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423800",
+      "properties": {
+        "@id": "way/263423800",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1168_41469",
+        "name": "Via Valfurva",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1956358,
+            45.5085103
+          ],
+          [
+            9.1957663,
+            45.5087795
           ]
         ]
       }
@@ -9492,7 +12556,7 @@
         "coordinates": [
           [
             9.1954391,
-            45.5088562
+            45.5088571
           ],
           [
             9.1954048,
@@ -9548,8 +12612,8 @@
             45.507673
           ],
           [
-            9.1948266,
-            45.5076159
+            9.1948274,
+            45.5076176
           ]
         ]
       }
@@ -9738,8 +12802,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            9.1948266,
-            45.5076159
+            9.1948274,
+            45.5076176
           ],
           [
             9.1951649,
@@ -9879,8 +12943,111 @@
             45.5085416
           ],
           [
-            9.1921331,
-            45.5085677
+            9.1921355,
+            45.508566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423823",
+      "properties": {
+        "@id": "way/263423823",
+        "cycling_width": "mean",
+        "highway": "tertiary",
+        "loc_ref": "1443_26690",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.198124,
+            45.50698
+          ],
+          [
+            9.1980153,
+            45.507006
+          ],
+          [
+            9.1953006,
+            45.5076547
+          ],
+          [
+            9.1952276,
+            45.5076721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423824",
+      "properties": {
+        "@id": "way/263423824",
+        "highway": "unclassified",
+        "loc_ref": "1443_26689",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1951649,
+            45.5075365
+          ],
+          [
+            9.1952389,
+            45.5075188
+          ],
+          [
+            9.1964256,
+            45.5072307
+          ],
+          [
+            9.1965348,
+            45.5072046
+          ],
+          [
+            9.197943,
+            45.5068691
+          ],
+          [
+            9.1979719,
+            45.5068622
+          ],
+          [
+            9.1980008,
+            45.5068553
+          ],
+          [
+            9.1980508,
+            45.5068434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263423825",
+      "properties": {
+        "@id": "way/263423825",
+        "highway": "unclassified",
+        "loc_ref": "1665_27621",
+        "name": "Via Val Daone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1934063,
+            45.5062014
+          ],
+          [
+            9.1937022,
+            45.5068052
           ]
         ]
       }
@@ -10697,6 +13864,908 @@
           [
             9.2325249,
             45.4620827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518913",
+      "properties": {
+        "@id": "way/263518913",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1664_28645",
+        "name": "Largo Rapallo",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1923486,
+            45.5064292
+          ],
+          [
+            9.1912328,
+            45.5066982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518914",
+      "properties": {
+        "@id": "way/263518914",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1664_28647",
+        "name": "Largo Rapallo",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.192256,
+            45.5062412
+          ],
+          [
+            9.1923486,
+            45.5064292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518915",
+      "properties": {
+        "@id": "way/263518915",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1526_21310",
+        "name": "Via Francesco Gatti"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1912328,
+            45.5066982
+          ],
+          [
+            9.1911394,
+            45.506503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518917",
+      "properties": {
+        "@id": "way/263518917",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "loc_ref": "1526_21311",
+        "name": "Via Francesco Gatti"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1911394,
+            45.506503
+          ],
+          [
+            9.1911161,
+            45.5064545
+          ],
+          [
+            9.1911141,
+            45.5064503
+          ],
+          [
+            9.1908387,
+            45.505917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518918",
+      "properties": {
+        "@id": "way/263518918",
+        "cycling_width": "narrow",
+        "highway": "residential",
+        "loc_ref": "1530_4667",
+        "maxspeed": "50",
+        "name": "Via Padre Pier Luigi Monti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1930136,
+            45.5053949
+          ],
+          [
+            9.1921503,
+            45.5056025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518919",
+      "properties": {
+        "@id": "way/263518919",
+        "highway": "residential",
+        "loc_ref": "1530_25981",
+        "name": "Via Padre Pier Luigi Monti"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1921503,
+            45.5056025
+          ],
+          [
+            9.192265,
+            45.5058751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518920",
+      "properties": {
+        "@id": "way/263518920",
+        "cycling_width": "narrow",
+        "highway": "residential",
+        "loc_ref": "1530_4665",
+        "maxspeed": "50",
+        "name": "Via Padre Pier Luigi Monti",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1934247,
+            45.5052962
+          ],
+          [
+            9.1930893,
+            45.5053767
+          ],
+          [
+            9.1930136,
+            45.5053949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518921",
+      "properties": {
+        "@id": "way/263518921",
+        "cycling_width": "narrow",
+        "highway": "residential",
+        "loc_ref": "1666_29152",
+        "name": "Via Val Cismon",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1949391,
+            45.5063852
+          ],
+          [
+            9.1949847,
+            45.5063539
+          ],
+          [
+            9.1949037,
+            45.5061578
+          ],
+          [
+            9.1948617,
+            45.5060914
+          ],
+          [
+            9.1948147,
+            45.5059872
+          ],
+          [
+            9.1948189,
+            45.505939
+          ],
+          [
+            9.1957316,
+            45.5057163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518922",
+      "properties": {
+        "@id": "way/263518922",
+        "highway": "unclassified",
+        "loc_ref": "1443_36424",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1906724,
+            45.5086072
+          ],
+          [
+            9.19058,
+            45.5084072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263518923",
+      "properties": {
+        "@id": "way/263518923",
+        "highway": "residential",
+        "loc_ref": "1443_36425",
+        "name": "Viale Ca' Granda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.19058,
+            45.5084072
+          ],
+          [
+            9.1905406,
+            45.5083293
+          ],
+          [
+            9.1902953,
+            45.5078433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263534860",
+      "properties": {
+        "@id": "way/263534860",
+        "highway": "residential",
+        "loc_ref": "5400_41257",
+        "name": "Via Manduria"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1783482,
+            45.4022083
+          ],
+          [
+            9.1784709,
+            45.4022424
+          ],
+          [
+            9.1785894,
+            45.4022776
+          ],
+          [
+            9.18047,
+            45.402794
+          ],
+          [
+            9.1808003,
+            45.4028847
+          ],
+          [
+            9.182081,
+            45.4032364
+          ],
+          [
+            9.1824497,
+            45.4033362
+          ],
+          [
+            9.1825761,
+            45.4033322
+          ],
+          [
+            9.182697,
+            45.4032847
+          ],
+          [
+            9.1827586,
+            45.4032069
+          ],
+          [
+            9.182851,
+            45.4030407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263534861",
+      "properties": {
+        "@id": "way/263534861",
+        "highway": "unclassified",
+        "loc_ref": "5400_27415",
+        "name": "Via Manduria",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1783482,
+            45.4022083
+          ],
+          [
+            9.1782564,
+            45.4022711
+          ],
+          [
+            9.1781275,
+            45.4023289
+          ],
+          [
+            9.1779868,
+            45.4023678
+          ],
+          [
+            9.1757098,
+            45.402611
+          ],
+          [
+            9.1747187,
+            45.4027204
+          ],
+          [
+            9.1745343,
+            45.4027507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263534862",
+      "properties": {
+        "@id": "way/263534862",
+        "highway": "unclassified",
+        "loc_ref": "5445_8497",
+        "name": "Via Pescara"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1830299,
+            45.4009912
+          ],
+          [
+            9.1829277,
+            45.401209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263534863",
+      "properties": {
+        "@id": "way/263534863",
+        "highway": "unclassified",
+        "loc_ref": "5445_8494",
+        "name": "Via Pescara"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1824218,
+            45.4007102
+          ],
+          [
+            9.1825258,
+            45.4004733
+          ],
+          [
+            9.1828218,
+            45.3998972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263534864",
+      "properties": {
+        "@id": "way/263534864",
+        "highway": "unclassified",
+        "loc_ref": "5445_9488",
+        "name": "Via Pescara"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1818941,
+            45.4019928
+          ],
+          [
+            9.1823349,
+            45.4011554
+          ],
+          [
+            9.1823777,
+            45.4008951
+          ],
+          [
+            9.1824218,
+            45.4007102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263534865",
+      "properties": {
+        "@id": "way/263534865",
+        "highway": "unclassified",
+        "loc_ref": "5445_8496",
+        "name": "Via Pescara"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1824218,
+            45.4007102
+          ],
+          [
+            9.1826369,
+            45.4007795
+          ],
+          [
+            9.1828078,
+            45.4008711
+          ],
+          [
+            9.1830299,
+            45.4009912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263534868",
+      "properties": {
+        "@id": "way/263534868",
+        "highway": "service",
+        "loc_ref": "5400_41264",
+        "service": "parking_aisle",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1827378,
+            45.4030117
+          ],
+          [
+            9.182851,
+            45.4030407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263544394",
+      "properties": {
+        "@id": "way/263544394",
+        "highway": "tertiary",
+        "loc_ref": "1443_38521",
+        "name": "Viale Ca' Granda",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1907792,
+            45.508739
+          ],
+          [
+            9.1902152,
+            45.5088748
+          ],
+          [
+            9.1901067,
+            45.5089016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263544395",
+      "properties": {
+        "@id": "way/263544395",
+        "highway": "tertiary",
+        "loc_ref": "1443_38522",
+        "name": "Viale Ca' Granda",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1901067,
+            45.5089016
+          ],
+          [
+            9.1899676,
+            45.5089344
+          ],
+          [
+            9.1898153,
+            45.508972
+          ],
+          [
+            9.1897765,
+            45.5089804
+          ],
+          [
+            9.1897439,
+            45.5089885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263544975",
+      "properties": {
+        "@id": "way/263544975",
+        "highway": "service",
+        "loc_ref": "1443_35053",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1906164,
+            45.5092655
+          ],
+          [
+            9.1908445,
+            45.5097387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551228",
+      "properties": {
+        "@id": "way/263551228",
+        "highway": "unclassified",
+        "loc_ref": "1722_28526",
+        "name": "Largo San Dionigi In Pratocentenaro"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.199312,
+            45.5091964
+          ],
+          [
+            9.1988583,
+            45.5092578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551229",
+      "properties": {
+        "@id": "way/263551229",
+        "highway": "unclassified",
+        "loc_ref": "1722_28529",
+        "name": "Largo San Dionigi In Pratocentenaro",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1988583,
+            45.5092578
+          ],
+          [
+            9.1992105,
+            45.509007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551231",
+      "properties": {
+        "@id": "way/263551231",
+        "cycling_width": "narrow",
+        "highway": "residential",
+        "loc_ref": "1665_4668",
+        "name": "Via Val Daone"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1938534,
+            45.5062338
+          ],
+          [
+            9.1940395,
+            45.5066197
+          ],
+          [
+            9.1940847,
+            45.5067135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551232",
+      "properties": {
+        "@id": "way/263551232",
+        "cycling_width": "wide",
+        "highway": "residential",
+        "lanes": "2",
+        "loc_ref": "1168_25253",
+        "name": "Via Val Maira",
+        "oneway": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1957663,
+            45.5087795
+          ],
+          [
+            9.1954391,
+            45.5088571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551233",
+      "properties": {
+        "@id": "way/263551233",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1098_25255",
+        "name": "Via Val Maira"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1971715,
+            45.5084447
+          ],
+          [
+            9.1972633,
+            45.5086519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551234",
+      "properties": {
+        "@id": "way/263551234",
+        "cycling_width": "narrow",
+        "highway": "unclassified",
+        "loc_ref": "1098_28527",
+        "name": "Via Val Maira"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1988583,
+            45.5092578
+          ],
+          [
+            9.1975956,
+            45.509077
+          ],
+          [
+            9.1974105,
+            45.5089536
+          ],
+          [
+            9.1972633,
+            45.5086519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551235",
+      "properties": {
+        "@id": "way/263551235",
+        "highway": "unclassified",
+        "loc_ref": "1443_26691",
+        "name": "Viale Ca' Granda",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1981947,
+            45.5071119
+          ],
+          [
+            9.1980941,
+            45.5071361
+          ],
+          [
+            9.1961296,
+            45.5076014
+          ],
+          [
+            9.1953737,
+            45.5077909
+          ],
+          [
+            9.1952927,
+            45.5078104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551237",
+      "properties": {
+        "@id": "way/263551237",
+        "alt_name": "Viale Suzzani",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "history": "Retrieved from v17",
+        "lanes": "2",
+        "lit": "yes",
+        "loc_ref": "1722_28523",
+        "name": "Viale Giovanni Suzzani",
+        "oneway": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1992105,
+            45.509007
+          ],
+          [
+            9.199312,
+            45.5091964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551238",
+      "properties": {
+        "@id": "way/263551238",
+        "alt_name": "Viale Suzzani",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "history": "Retrieved from v17",
+        "lanes": "2",
+        "lit": "yes",
+        "loc_ref": "1446_28522",
+        "name": "Viale Giovanni Suzzani",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1987186,
+            45.5080892
+          ],
+          [
+            9.198769,
+            45.5081833
+          ],
+          [
+            9.1992105,
+            45.509007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263551239",
+      "properties": {
+        "@id": "way/263551239",
+        "alt_name": "Viale Suzzani",
+        "cycling_width": "mean",
+        "highway": "residential",
+        "history": "Retrieved from v17",
+        "lanes": "2",
+        "lit": "yes",
+        "loc_ref": "1446_513",
+        "name": "Viale Giovanni Suzzani",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1981947,
+            45.5071119
+          ],
+          [
+            9.1982211,
+            45.5071612
+          ],
+          [
+            9.1986708,
+            45.5080002
+          ],
+          [
+            9.1987186,
+            45.5080892
           ]
         ]
       }
